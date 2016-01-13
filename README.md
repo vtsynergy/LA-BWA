@@ -1,2 +1,2 @@
 # LA-BWA
-Optimized Burrows-Wheeler Alignment on a Multicore CPU
+Locality-Aware Burrows-Wheeler Alignment on a Multicore CPU
